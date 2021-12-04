@@ -182,3 +182,22 @@ description: <description>
 * Use css variables
 
 <img width="800" alt="Screenshot 2021-12-04 at 22 23 13" src="https://user-images.githubusercontent.com/10829855/144723706-f182e731-1e5f-43d5-9d65-d2b6b6a88d24.png">
+
+## Test 16:
+
+> Create widgets slider.
+
+### Acceptance criteria:
+
+* use javascript or jQuery or other js library
+* Markups must be according to design
+
+
+## Test 17:
+
+> Create widgets Autocomplete.
+
+### Acceptance criteria:
+
+* use javascript or jQuery or other js library
+* Markups must be according to design
