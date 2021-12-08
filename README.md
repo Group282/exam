@@ -332,6 +332,8 @@ https://user-images.githubusercontent.com/10829855/145257623-b8fbd0ab-4716-4339-
 * Main page should have only title with message "It is React boilerplate"
 * Markups must be according to design
 
+<img src="https://user-images.githubusercontent.com/10829855/145263859-60b2b4f6-90b6-40a7-85b6-771482f30a59.png"  width="800"/>
+
 ## Test 27:
 
 > Create simple web react application
@@ -342,4 +344,6 @@ https://user-images.githubusercontent.com/10829855/145257623-b8fbd0ab-4716-4339-
 * Use mobile-first methodology
 * Use scss
 * Markups must be according to design
+
+<img src="https://user-images.githubusercontent.com/10829855/145263844-2b9fa765-8293-4118-999d-8dba642e9d09.png"  width="800"/>
 
