@@ -214,6 +214,8 @@ description: <description>
 * use javascript or jQuery or other js library
 * Markups must be according to design
 
+![VeQvB](https://user-images.githubusercontent.com/10829855/145257858-07909ff5-c017-47d5-99d1-f089cede5dc3.png)
+
 ## Test 19:
 
 > Create toggle panel accordion widgets.
@@ -223,6 +225,8 @@ description: <description>
 * use javascript or jQuery or other js library
 * Functionality must be according to video 
 * Markups must be according to design
+
+https://user-images.githubusercontent.com/10829855/145257725-11cad00f-7338-497e-8517-fe637da8d188.mov
 
 ## Test 20:
 
@@ -234,6 +238,8 @@ description: <description>
 * Functionality must be according to video
 * Markups must be according to design
 
+https://user-images.githubusercontent.com/10829855/145257677-db03e8c9-4cb6-43a8-a444-46c2b78de099.mov
+
 ## Test 21:
 
 > Create tabs:q widgets.
@@ -243,3 +249,6 @@ description: <description>
 * use javascript or jQuery or other js library
 * Functionality must be according to video
 * Markups must be according to design
+
+https://user-images.githubusercontent.com/10829855/145257623-b8fbd0ab-4716-4339-92b4-5d83e091b15c.mov
+
