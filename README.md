@@ -204,3 +204,42 @@ description: <description>
 * use javascript or jQuery or other js library
 * Markups must be according to design
 <img width="454" alt="Screenshot 2021-12-04 at 22 54 39" src="https://user-images.githubusercontent.com/10829855/144724389-bb458232-6ae6-4425-a003-345ccbd444f5.png">
+
+## Test 18:
+
+> Create dropdown widgets.
+
+### Acceptance criteria:
+
+* use javascript or jQuery or other js library
+* Markups must be according to design
+
+## Test 19:
+
+> Create toggle panel accordion widgets.
+
+### Acceptance criteria:
+
+* use javascript or jQuery or other js library
+* Functionality must be according to video 
+* Markups must be according to design
+
+## Test 20:
+
+> Create tooltip widgets.
+
+### Acceptance criteria:
+
+* use javascript or jQuery or other js library
+* Functionality must be according to video
+* Markups must be according to design
+
+## Test 21:
+
+> Create tabs:q widgets.
+
+### Acceptance criteria:
+
+* use javascript or jQuery or other js library
+* Functionality must be according to video
+* Markups must be according to design
