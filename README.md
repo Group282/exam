@@ -242,7 +242,7 @@ https://user-images.githubusercontent.com/10829855/145257677-db03e8c9-4cb6-43a8-
 
 ## Test 21:
 
-> Create tabs:q widgets.
+> Create tabs widgets.
 
 ### Acceptance criteria:
 
@@ -252,3 +252,51 @@ https://user-images.githubusercontent.com/10829855/145257677-db03e8c9-4cb6-43a8-
 
 https://user-images.githubusercontent.com/10829855/145257623-b8fbd0ab-4716-4339-92b4-5d83e091b15c.mov
 
+## Test 22:
+
+> Create webpack configuration development environment
+> 
+### Acceptance criteria
+* Create npm script for start build
+* Install and configure babel-loader, file-loader, html-loader, image-webpack-loader, sass-loader, to-string-loader, ts-loader, url-loader
+* Install and configure MiniCssExtractPlugin, HtmlWebpackPlugin, webpack.DefinePlugin for dev config
+* File structure should be below
+## Directory Structure
+
+```
+├── app
+│   ├── index.ts
+│   └──  index.html 
+├──.editorconfig
+├──.gitignore
+├──webpack.config.js
+├──package.json
+├──package-lock.json
+└── 
+```
+
+## Test 23:
+
+> Create webpack configuration production environment
+
+### Acceptance criteria
+* Create npm script for start build
+
+* Install and configure babel-loader, file-loader, html-loader, image-webpack-loader, sass-loader, to-string-loader, ts-loader, url-loader
+* Install and configure TerserPlugin, HtmlWebpackPlugin, webpack.DefinePlugin for production config
+* Add minimize option for production config
+* File structure should be below
+
+## Directory Structure
+
+```
+├── app
+│   ├── index.ts
+│   └──  index.html
+├──.editorconfig
+├──.gitignore
+├──webpack.config.js
+├──package.json
+├──package-lock.json
+└── 
+```
