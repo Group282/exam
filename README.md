@@ -307,7 +307,7 @@ https://user-images.githubusercontent.com/10829855/145257623-b8fbd0ab-4716-4339-
 ### Acceptance criteria
 * Use open API https://anapioficeandfire.com/api/characters/583 for getting data from a server
 * Show list of options for some charecter 
-* Markups must be adaptive and responsive according to design
+* Markups must be according to design
 
 ![Screenshot 2021-12-08 at 20 03 58](https://user-images.githubusercontent.com/10829855/145261061-eb029b6c-56e3-4b54-93a8-e33357197ad3.png)
 
@@ -317,7 +317,29 @@ https://user-images.githubusercontent.com/10829855/145257623-b8fbd0ab-4716-4339-
 
 ### Acceptance criteria
 * Use open API https://anapioficeandfire.com/api/characters/583 for getting data from a server
-* Show list of charecters name 
-* Markups must be adaptive and responsive according to design
+* Show list of charecters name
+* Markups must be according to design
 
 ![Screenshot 2021-12-08 at 20 08 34](https://user-images.githubusercontent.com/10829855/145261051-ef0bc477-87ec-45b6-9fc7-142c567915c8.png)
+
+## Test 26:
+
+> Create simple web react application boilerplate
+
+### Acceptance criteria
+* Use create-react-app module, create boilerplate
+* create npm scripts for stating application 
+* Main page should have only title with message "It is React boilerplate"
+* Markups must be according to design
+
+## Test 27:
+
+> Create simple web react application
+
+### Acceptance criteria
+* Use Bootstrap UI framework
+* Use css media queries
+* Use mobile-first methodology
+* Use scss
+* Markups must be according to design
+
