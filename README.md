@@ -300,3 +300,21 @@ https://user-images.githubusercontent.com/10829855/145257623-b8fbd0ab-4716-4339-
 ├──package-lock.json
 └── 
 ```
+## Test 24:
+
+> Create simple web page use AJAX technology
+
+### Acceptance criteria
+* Use open API https://anapioficeandfire.com/api/characters/583 for getting data from a server
+* Show list of options for some charecter 
+* Markups must be adaptive and responsive according to design
+
+
+## Test 25:
+
+> Create simple web page use AJAX technology
+
+### Acceptance criteria
+* Use open API https://anapioficeandfire.com/api/characters/583 for getting data from a server
+* Show list of charecters name 
+* Markups must be adaptive and responsive according to design
