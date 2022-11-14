@@ -12,7 +12,7 @@
 * Use css variables
 * Markups must be adaptive and responsive according to design
 
-![Screenshot 2021-11-23 at 00 08 17](https://user-images.githubusercontent.com/10829855/142942965-1964d0ce-0581-4f50-9e86-3a8c59e38b23.png)
+<img width="400" src="https://user-images.githubusercontent.com/10829855/142942965-1964d0ce-0581-4f50-9e86-3a8c59e38b23.png"  />
 
 ## Test 2:
 
@@ -24,7 +24,7 @@
 * Use css variables
 * Markups must be adaptive and responsive according to design
 
-![Screenshot 2021-11-23 at 00 08 17](https://user-images.githubusercontent.com/10829855/142942965-1964d0ce-0581-4f50-9e86-3a8c59e38b23.png)
+<img width="400" src="https://user-images.githubusercontent.com/10829855/142942965-1964d0ce-0581-4f50-9e86-3a8c59e38b23.png"  />
 
 ## Test 3:
 
@@ -36,7 +36,7 @@
 * Use css variables
 * Markups must be adaptive and responsive according to design
 
-![Screenshot 2021-11-23 at 00 08 17](https://user-images.githubusercontent.com/10829855/142942965-1964d0ce-0581-4f50-9e86-3a8c59e38b23.png)
+<img width="400" src="https://user-images.githubusercontent.com/10829855/142942965-1964d0ce-0581-4f50-9e86-3a8c59e38b23.png"  />
 
 ## Test 4:
 
@@ -359,4 +359,20 @@ https://user-images.githubusercontent.com/10829855/145257623-b8fbd0ab-4716-4339-
 
 
 <img alt="Screenshot 2021-12-04 at 22 23 13" src="https://user-images.githubusercontent.com/10829855/201704622-33344bb5-c975-491f-bda7-56d57660b8ac.png">
+
+## Test 29:
+
+> Create Simple HTML fomr according to validation rules.
+
+### Acceptance criteria:
+
+* The form input element must have any input values
+* The form input element must have valid email format values
+* The form input element must have valid number format values
+* when field is invalid add red border for input
+* Your password needs to be between 8 and 30 characters long and contain one uppercase letter, one symbol, and a number
+
+
+<img alt="Screenshot 2021-12-04 at 22 23 13" src="https://user-images.githubusercontent.com/10829855/201706326-78ca7370-fe7c-4b23-91bf-8a95a075504f.png"> 
+
 
