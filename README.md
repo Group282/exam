@@ -358,5 +358,5 @@ https://user-images.githubusercontent.com/10829855/145257623-b8fbd0ab-4716-4339-
 * Use css variables
 
 
-<img width="800" alt="Screenshot 2021-12-04 at 22 23 13" src="https://user-images.githubusercontent.com/10829855/144723706-f182e731-1e5f-43d5-9d65-d2b6b6a88d24.png">
+<img alt="Screenshot 2021-12-04 at 22 23 13" src="https://user-images.githubusercontent.com/10829855/201704622-33344bb5-c975-491f-bda7-56d57660b8ac.png">
 
