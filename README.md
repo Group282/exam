@@ -347,3 +347,16 @@ https://user-images.githubusercontent.com/10829855/145257623-b8fbd0ab-4716-4339-
 
 <img src="https://user-images.githubusercontent.com/10829855/145263844-2b9fa765-8293-4118-999d-8dba642e9d09.png"  width="800"/>
 
+## Test 28:
+
+> Create Simple HTML page use css BEM metodolody.
+
+### Acceptance criteria:
+
+* css BEM metodolody
+* Use css media queries
+* Use css variables
+
+
+<img width="800" alt="Screenshot 2021-12-04 at 22 23 13" src="https://user-images.githubusercontent.com/10829855/144723706-f182e731-1e5f-43d5-9d65-d2b6b6a88d24.png">
+
